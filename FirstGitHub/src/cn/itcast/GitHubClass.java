@@ -7,8 +7,8 @@ public class GitHubClass {
 
     public void test(){
         int i =1;
-       int c=i+1;
-        System.out.println(c);
+
+        System.out.println(i);
 
     }
 }
